@@ -4,6 +4,7 @@
 **Hyperion101010/Hyperion101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on Web dev and APIs
 - 🌱 I’m currently learning Nodejs and Reactjs
@@ -12,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin: hyperion101010 and twitter: @balikondwar_s
 - 😄 Pronouns: HE/ HIM
 - ⚡ Fun fact: Music with code is love.
--->

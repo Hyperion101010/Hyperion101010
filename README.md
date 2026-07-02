@@ -14,7 +14,7 @@
 
 ### About Me
 
-I am a software engineer with three years of experience building full stack applications, backend services, and ML systems. Currently pursuing my Master's in Computer Science at NYU.
+I am a software engineer with three years of experience building full stack applications, backend services, and ML systems. Completed my Master's in Computer Science at NYU.
 
 I have worked at startups and unicorns deploying production systems using TypeScript, Node.js, Python, and C++. I enjoy building things that solve real problems and contributing to open source projects.
 

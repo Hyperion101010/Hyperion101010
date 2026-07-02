@@ -2,7 +2,7 @@
 
 # Hey, I'm Shivam 👋
 
-**Software Engineer** · **NYU CS Grad Student** · **Open Source Contributor**
+**Software Engineer** · **NYU CS Grad 2026** · **Open Source Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbalikondwar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/balikondwar_s)
